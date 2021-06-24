@@ -1,1 +1,1 @@
-# LEET-CODE
+# LEETCODE
