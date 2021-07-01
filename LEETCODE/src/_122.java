@@ -11,5 +11,4 @@ public class _122 {
 	}
 	        return profit;
 	    }
-
 }
