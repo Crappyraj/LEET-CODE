@@ -18,5 +18,4 @@ public class Reverse_Integer_7 {
 	            return 0;}
 	        return negative ? (int)(-1*rev) : (int)(rev);
 	    }
-
 }
